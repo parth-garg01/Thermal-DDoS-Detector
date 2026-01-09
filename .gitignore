@@ -1,0 +1,45 @@
+# Word Documents
+*.doc
+*.docx
+
+# PDF Files
+*.pdf
+
+# CSV Log Files
+*.csv
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino Build Files
+*.hex
+*.elf
+*.eep
+*.lss
+*.map
+*.sym
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
