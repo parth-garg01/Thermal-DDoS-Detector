@@ -307,11 +307,13 @@ DSD Project/
 
 ## 📝 License
 
-This project is open-source and available for educational purposes.
+This project is a patentable innovation and is available for educational and research purposes.
 
 ## 👥 Authors
 
 - Parth Garg
+- Nakul Sinha
+- Ayush Sinha
 
 ## 🙏 Acknowledgments
 
